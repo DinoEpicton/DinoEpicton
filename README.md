@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DinoEpicton
 - 👀 I’m interested in coding, music and other stuff
-- 🌱 I’m currently learning how to code using Java.
+- 🌱 I’m currently learning how to code using Java with the goal of creating my own Minecraft mod.
 - 📫 You can contact me under my e-mail adress dino.epicton@gmail.com
 
 <!---
