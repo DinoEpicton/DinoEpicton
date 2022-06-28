@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yannic10
+- 👋 Hi, I’m @Yannic1992
 - 👀 I’m interested in coding, music and other stuff
 - 🌱 I’m currently learning how to code using Java.
 - 📫 You can contact me under my e-mail adress yannic1992@gmx.net
