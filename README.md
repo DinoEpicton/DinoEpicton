@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DinoEpicton
+- 👋 Hi, I’m @Yannic10
 - 👀 I’m interested in coding, music and other stuff
-- 🌱 I’m currently learning how to code using Java with the goal of creating my own Minecraft mod.
-- 📫 You can contact me under my e-mail adress dino.epicton@gmail.com
+- 🌱 I’m currently learning how to code using Java.
+- 📫 You can contact me under my e-mail adress yannic1992@gmx.net
 
 <!---
 DinoEpicton/DinoEpicton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
